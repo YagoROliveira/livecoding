@@ -5,6 +5,10 @@ export default function HomeScreen() {
   // email@teste.com.br
   // @teste@demo
 
+  // O Botao deve estar desativado até que os dados estejam preenchidos.
+  // Ao clicar no botao, validar os dados dos campos.
+  // Em caso dos campos estarem ok deve-se exibir um alerta com sucesso ou caso nao com erro.
+
   return (
     <View
       style={{
