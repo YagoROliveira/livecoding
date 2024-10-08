@@ -2,6 +2,8 @@ import { View, Text, Button, TextInput } from "react-native";
 
 export default function HomeScreen() {
   // Valide o email do usuario e a senha para que sejam os mesmos abaixo;
+  // email@teste.com.br
+  // @teste@demo
 
   return (
     <View
